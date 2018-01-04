@@ -33,6 +33,7 @@ I think it might be enough for a daemon to keep an eye on any subfolder within t
 # Things to try
 ### Daemon/Cron job
 - https://www.npmjs.com/package/daemon
+  - THIS appears to be a NO GO.
 - https://www.npmjs.com/package/cron
 - https://www.npmjs.com/package/node-cron
 
