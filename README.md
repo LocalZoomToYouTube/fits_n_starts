@@ -36,6 +36,7 @@ I think it might be enough for a daemon to keep an eye on any subfolder within t
   - THIS appears to be a NO GO.
 - https://www.npmjs.com/package/cron
 - https://www.npmjs.com/package/node-cron
+- https://www.npmjs.com/package/daemonize
 
 ### Upload to YouTube
 - https://github.com/tokland/youtube-upload
