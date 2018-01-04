@@ -1,0 +1,15 @@
+{
+  "name": "node_daemon",
+  "version": "1.0.0",
+  "description": "testing the daemon package",
+  "main": "example.js",
+  "dependencies": {
+    "daemon": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
