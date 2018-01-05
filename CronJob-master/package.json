@@ -1,0 +1,25 @@
+{
+  "name": "cronjob",
+  "version": "1.0.0",
+  "description": "cronjob",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LocalZoomToYouTube/CronJob.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LocalZoomToYouTube/CronJob/issues"
+  },
+  "homepage": "https://github.com/LocalZoomToYouTube/CronJob#readme",
+  "dependencies": {
+    "chokidar": "^2.0.0",
+    "cron": "^1.3.0",
+    "daemonize2": "^0.4.2",
+    "fs-extra": "^5.0.0"
+  }
+}
