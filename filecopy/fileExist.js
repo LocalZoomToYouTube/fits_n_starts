@@ -33,11 +33,11 @@ kidProcess.exec('find ~/Documents/Zoom -name "*.mp4"',function (err,stdout,stder
     }
 });
 
-kidProcess.exec('say yo, this is a REALLY important notification',function (err,stdout,stderr) {
-    if (err) {
-        console.log("\n"+stderr);
-    }
-});
+// kidProcess.exec('say yo, this is a REALLY important notification',function (err,stdout,stderr) {
+//     if (err) {
+//         console.log("\n"+stderr);
+//     }
+// });
 
 
 // fs.open(path+'zoom_0.mp4', 'r', (err, fd) => {
