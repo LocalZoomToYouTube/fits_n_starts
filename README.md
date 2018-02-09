@@ -1,13 +1,21 @@
 # fits_n_starts
 some code I've been messing around with
 
+# Lambda School Hackathon 2018 team:
+1. Dylan Scheidt
+2. Calumn Groover
+3. Emma Drueke
+4. Patrick Kennedy
+
+- https://github.com/LocalZoomToYouTube
+
 # Local Zoom Recording File Sequence
 
-1. While recording:  
+1. While recording:
 ![1) Recording](art/1_Recording.png)
-2. While transcoding:  
+2. While transcoding:
 ![2) Transcoding](art/2_Transcoding.png)
-3. When finished:  
+3. When finished:
 ![3) Finished .mp4](art/3_Fin.png)
 
 ### macOS default recording directory
